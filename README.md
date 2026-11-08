@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/simbolo.png" alt="Símbolo do escritório" height="140">
+<img width="1852" height="897" alt="Captura de tela 2026-11-08 052132" src="https://github.com/user-attachments/assets/4dede1ae-eb3a-4b7c-bae1-ed58afae034f" />
 
 # ⚖️ Site de Advocacia — Silva & Associados
 
